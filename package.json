@@ -1,0 +1,20 @@
+{
+  "name": "stripe-nodejs",
+  "version": "0.0.0",
+  "description": "Stripe nodejs is a version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gogs.mollcarbo.name:agusti/stripe-node.git"
+  },
+  "author": "Agustí Moll <agusti@mollcarbo.name>",
+  "license": "ISC",
+  "dependencies": {
+    "moniker": "^0.1.2",
+    "sqlite3": "^3.1.1",
+    "stripe": "^4.5.0"
+  }
+}
